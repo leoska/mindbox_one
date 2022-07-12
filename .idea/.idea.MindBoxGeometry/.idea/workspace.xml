@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7185e4f-2cb1-4b6a-a7ef-9efae9713c1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MindBoxGeometry/Figure.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MindBoxGeometry/Figures/RightTriangle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MindBoxGeometry/Figures/Triangle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MindBoxGeometryTests/UnitTestFigures.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MindBoxGeometry/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MindBoxGeometry/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MindBoxGeometry.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MindBoxGeometry.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MindBoxGeometry/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindBoxGeometryTests/MindBoxGeometryTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MindBoxGeometryTests/MindBoxGeometryTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MindBoxGeometryTests/UnitTest1.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657574891479</updated>
-      <workItem from="1657574897651" duration="7474000" />
+      <workItem from="1657574897651" duration="9137000" />
     </task>
     <servers />
   </component>
